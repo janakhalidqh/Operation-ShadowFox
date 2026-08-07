@@ -1,4 +1,4 @@
-# ShadowFox — Phase 2: Active Directory Setup \& Validation
+# ShadowFox — Phase 1: Active Directory Setup \& Validation
 
 > \*\*Lab Notice:\*\* All credentials used in this lab are disposable test credentials and must never be reused in production environments.
 
@@ -16,7 +16,7 @@ All VMs should use the same **Internal Network**.
 
 ## 
 
-### **ShadowFox — Phase 2 Commands**
+### **ShadowFox — Phase 1 Commands**
 
 
 
